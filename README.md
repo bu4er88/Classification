@@ -11,5 +11,5 @@
 2. The corresponding dataset was found on Kaggle: https://www.kaggle.com/wanderdust/skin-lesion-analysis-toward-melanoma-detection. 
 3. Finetuned Resnet152 model has been used for classification problems.
 4. There was an imbalance of classes was detected in the dataset therefore Focal Loss has been used to avoiding class imbalance problems and getting better training results.
-5. The notebook finished with two photos of my right-hand lesions and they were detected as benign - not malignant, as I expected. 
+5. The notebook finished with two photos of my right-hand lesions and they were detected as benign - not malignant, as it was expected. 
 6. Link to trained model from my google drive: https://drive.google.com/file/d/1-9BYpg4YkKXhMzGln_LMQpChbwFgL45w/view?usp=sharing
