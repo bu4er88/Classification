@@ -1,4 +1,12 @@
 # Classification
 
-For the Lession_classification_pet_progect you can use the following link to download trained model from my google drive.
-Link to trained model: https://drive.google.com/file/d/1-9BYpg4YkKXhMzGln_LMQpChbwFgL45w/view?usp=sharing
+## Melanoma_pet_project.ipynb
+1. 
+Model is finetuned Resnet152 with focal loss in order to avoid 
+
+
+
+Link to trained model from my google drive: https://drive.google.com/file/d/1-9BYpg4YkKXhMzGln_LMQpChbwFgL45w/view?usp=sharing
+
+
+2. Simpsons_classification_github.ipynb
